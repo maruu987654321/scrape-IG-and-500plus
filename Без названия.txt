@@ -1,0 +1,15 @@
+There are two brokers who publish some information on their websites which can change all the time during the day and night. I would like to use a list of web links and scrap everywhere the same information.
+
+The first broker:
+https://www.ig.com/uk/commodities/markets-commodities/carbon-emissions
+https://www.ig.com/uk/indices/markets-indices/germany-30
+
+The second broker:
+https://www.plus500.com/Instruments/ECF
+https://www.plus500.com/Instruments/FDAX
+
+The screenshots under the links show which information needs to be collected from both brokers.
+https://url.upwork.com/_012Kyv86gq8Mse8NZGDhsr-XRUjFYC8Nbo
+https://url.upwork.com/_012Kyv86gq8MtQ15BsjTAos-Yf-aBsz9kq
+
+For each broker I would like to use a list of URLs for different symbols. E.g. for IG Index it may be the symbols EUA, Germany 30, EURUSD,... and a similar list for Plus500-broker. The list can be hardcoded. For both brokers there should be two individual output files: igindex.csv and plus500.csv. Whenever the code scraps the website the new entries should be appended to the history stored in the two mentioned files. The following fields should be present in both files: Datetime, symbol, bid price, ask price, % buyers.

@@ -1,0 +1,8 @@
+FOREX,RES_FOREX
+EURUSD,eur-usd
+AUDUSD,aud-usd
+USDJPY,usd-jpy
+EURGBP,eur-gbp
+GBPUSD,gbp-usd
+EURJPY,eur-jpy
+USDCHF,usd-chf

@@ -1,0 +1,31 @@
+INDICES,RES_INDICES
+Netherlands25,holland-25
+Australia200,australia-200
+Germany30,germany-30
+WallStreet,wall-street
+FTSE100,ftse-100
+HongKongHS50,hong-kong-hs42
+ChinaH-shares,china-h-shares
+Spain35,spain-35
+Italy40,italy-40
+USTech100,us-tech-100
+India50,india-50 
+Japan225,japan-225
+Norway25,norway-25
+Sweden30,sweden-30
+Portugal20,portugal-20
+SouthAfrica40,south-africa-40
+Singapore Blue Chip,singapore-blue-chip
+Switzerland Blue Chip,switzerland-blue-chip
+US500,us-spx-500
+EUStocks50,eu-stocks-50
+ChinaA50,china-a50
+Austria20,austria-20 
+Belgium20,belgium-20
+Brazil60,brazil-60
+Hungary12,hungary-12
+Germany Mid-Cap 50,germany-mid-cap-50
+Mexico35,mexico-35
+USRussell2000,russell-2000
+TaiwanIndex,taiwan-index-tw
+GermanyTech30,germany-tech-30

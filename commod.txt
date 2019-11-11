@@ -1,0 +1,30 @@
+COMMOD,RES_COMMOD
+US Light Crude,us-light-crude
+Brent Crude,brent-crude
+Gold,gold
+Silver,silver
+Platinum,platinum
+High Grade Copper,high-grade-copper
+Soyabean Oil,soyabean-oil
+Corn,corn
+New York Cocoa,new-york-cocoa
+Carbon Emissions,carbon-emissions
+Coffee Arabica,coffee-arabica
+Lumber,lumber
+Live Cattle,live-cattle
+London Cocoa,london-cocoa
+Lean Hogs,lean-hogs
+Coffee Robusta,coffee-robusta
+London Sugar No. 5,london-sugar-no-5
+Oats,oats
+NY Orange Juice,orange-juice
+Rough Rice,rough-rice 
+Soyabeans, soyabeans 
+NY Sugar No. 11,new-york-sugar-no-11
+Soyabean Meal,soyabean-meal
+Chicago Wheat,chicago-wheat
+Heating Oil,heating-oil
+Natural Gas,natural-gas
+No Lead Gasoline,no-lead-gasoline
+Palladium,palladium
+Iron Ore,iron-ore
